@@ -8,3 +8,5 @@ finetuning a hugging face model
 skeleton code for finetuning llama2
 # fast finetuning llama2
 a fast and steamlined way to finetune llama2
+# instructional finetuning falcon
+https://wandb.ai/jaeson/huggingface/runs/el5rg1px/ 
