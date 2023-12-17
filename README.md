@@ -10,3 +10,5 @@ skeleton code for finetuning llama2
 a fast and steamlined way to finetune llama2
 # instructional finetuning falcon
 https://wandb.ai/jaeson/huggingface/runs/el5rg1px/ 
+# finetuned bloom 3b model with instrustional lora
+https://huggingface.co/jbb/squidsquad/commit/a2298ba1a9ca0d27c38a50e6a1f48e83518d1403 
