@@ -15,3 +15,5 @@ https://huggingface.co/jbb/squidsquad/commit/a2298ba1a9ca0d27c38a50e6a1f48e83518
 # finetuned stable difussion on my own avatars
 https://huggingface.co/jbb/jsonbot 
 v2, higher-res: https://huggingface.co/jbb/jsonbotv2 
+# finetuned code llama for coq formalizer
+https://huggingface.co/jbb/llama_coq 
